@@ -1,7 +1,7 @@
 # Ecommerce
 Technologies used - Core Java, Restful Web Services, Spring Boot, Hibernate, MySQL, tomcat, GIT, Maven, Angular.
 
-Description- Farmer system is web application where buyer meet seller. This software is developed by keeping in mind about farmers and their production. The motive of this software is to help farmers to get right cost of their product. Through this software they can directly sell their products to buyer no mediator is required.
+Description- It is e-commerce web application, which retails various fashion and lifestyle products. This project allows viewing various products available enables registered users to purchase desired products instantly using PayPal payment processor (Instant Pay) and also can place order by using Cash on Delivery (Pay Later) option. This project provides an easy access to Administrators and Managers to view orders placed using Pay Later and Instant Pay options.
 
 Roles and Responsibilities-
 
